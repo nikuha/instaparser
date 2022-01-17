@@ -1,0 +1,2 @@
+scrapy startproject instaparser .
+scrapy genspider instagram instagram.com
